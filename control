@@ -1,0 +1,22 @@
+Package: com.haoict.outlookplus
+Name: Outlook Plus
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Free & Open Source Tweak for Outlook App
+ Free & Open Source Tweak for Outlook App
+ Change log: https://github.com/haoict/outlook-plus/releases
+ . 
+ Features:
+ - Bypass Jailbreak Detection
+ - Support iOS 10-13 & latest Outlook app version
+ . 
+ I collect uuid for better support and statistic purpose
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks
